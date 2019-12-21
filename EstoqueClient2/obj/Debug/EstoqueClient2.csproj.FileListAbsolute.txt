@@ -1,0 +1,7 @@
+C:\dm113\EstoqueEntityModel\EstoqueClient2\bin\Debug\EstoqueClient2.exe.config
+C:\dm113\EstoqueEntityModel\EstoqueClient2\bin\Debug\EstoqueClient2.exe
+C:\dm113\EstoqueEntityModel\EstoqueClient2\bin\Debug\EstoqueClient2.pdb
+C:\dm113\EstoqueEntityModel\EstoqueClient2\obj\Debug\EstoqueClient2.csprojAssemblyReference.cache
+C:\dm113\EstoqueEntityModel\EstoqueClient2\obj\Debug\EstoqueClient2.csproj.CoreCompileInputs.cache
+C:\dm113\EstoqueEntityModel\EstoqueClient2\obj\Debug\EstoqueClient2.exe
+C:\dm113\EstoqueEntityModel\EstoqueClient2\obj\Debug\EstoqueClient2.pdb
